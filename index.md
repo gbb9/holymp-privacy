@@ -8,12 +8,12 @@ Questa informativa descrive come sono trattati i dati personali quando usi l'app
 ## 1) Titolare del trattamento
 Il Titolare del trattamento e:
 
-- Nome e cognome / denominazione: **[DA_COMPLETARE]**
+- Nome e cognome / denominazione: **Gabriele Vaccargiu**
 - Nome commerciale del servizio: **Holymp**
-- Email privacy: **[DA_COMPLETARE]**
-- Paese di riferimento: **[DA_COMPLETARE]**
+- Email privacy: **fitness.privacy.gv@gmail.com**
+- Paese di riferimento: **Italia**
 
-Se nominato, il DPO o referente privacy puo essere contattato a: **[DA_COMPLETARE_OPZIONALE]**.
+Attualmente non e stato nominato un DPO dedicato.
 
 ## 2) Ambito di applicazione
 Questa informativa si applica all'app mobile Holymp e ai servizi backend collegati (es. autenticazione, sincronizzazione dati, funzioni AI, gestione premium).
@@ -100,7 +100,7 @@ Holymp non vende dati personali a terzi e non usa pubblicita comportamentale di 
 ## 8) Trasferimenti extra SEE
 Alcuni fornitori possono trattare dati fuori da UE/SEE. In tali casi il Titolare adotta le garanzie previste dagli artt. 44 e seguenti GDPR (es. clausole contrattuali standard, ove applicabili).
 
-Dettagli operativi aggiornati: **[DA_COMPLETARE]**.
+Dettagli operativi aggiornati: in base alla configurazione tecnica attiva dei fornitori extra SEE e alle relative garanzie contrattuali applicabili.
 
 ## 9) Tempi di conservazione
 I dati sono conservati per il tempo necessario alle finalita sopra indicate.
@@ -109,8 +109,8 @@ I dati sono conservati per il tempo necessario alle finalita sopra indicate.
 - Dati allenamento/nutrizione/peso/allegati: fino a cancellazione da parte utente o cancellazione account.
 - Dati reset password (OTP/token): conservazione tecnica limitata (es. minuti/ore) secondo configurazione di sicurezza.
 - Dati acquisti/premium: per il tempo necessario alla gestione amministrativa e agli obblighi di legge.
-- Log tecnici e sicurezza: **[DA_COMPLETARE_ES_30_90_180_GIORNI]**.
-- Backup: retention ciclica limitata: **[DA_COMPLETARE]**.
+- Log tecnici e sicurezza: **90 giorni**.
+- Backup: retention ciclica limitata: **30 giorni**.
 
 Quando riceviamo una richiesta valida di cancellazione account, eliminiamo i dati associati salvo quelli da conservare per obbligo legale o difesa di diritti.
 
@@ -121,7 +121,7 @@ La cancellazione account e disponibile in-app nel percorso:
 
 E inoltre disponibile il canale esterno richiesto dagli store:
 
-- URL pagina esterna eliminazione account: **[DA_COMPLETARE_URL_ACCOUNT_DELETION]**
+- URL pagina esterna eliminazione account: **https://gbb9.github.io/holymp-privacy/account-deletion/**
 
 ## 11) Sicurezza
 Sono adottate misure tecniche e organizzative proporzionate al rischio, tra cui:
@@ -145,7 +145,7 @@ Ai sensi del GDPR puoi esercitare:
 - portabilita (nei casi previsti);
 - revoca del consenso (senza pregiudicare la liceita del trattamento precedente).
 
-Per esercitare i diritti scrivi a: **[DA_COMPLETARE_EMAIL_DIRITTI]**.
+Per esercitare i diritti scrivi a: **fitness.privacy.gv@gmail.com**.
 
 Hai anche il diritto di proporre reclamo al Garante per la protezione dei dati personali.
 
@@ -164,15 +164,3 @@ Prima di attivare nuovi trattamenti non compatibili con questa informativa, la p
 ## 16) Modifiche a questa informativa
 Questa informativa puo essere aggiornata nel tempo.  
 La versione aggiornata sara pubblicata al medesimo URL e, quando necessario, notificata in-app.
-
----
-
-## Dati da completare prima della pubblicazione
-Compila i placeholder seguenti prima di caricare su URL pubblico:
-
-- `[DA_COMPLETARE]` nel blocco Titolare.
-- `[DA_COMPLETARE]` su trasferimenti extra SEE.
-- `[DA_COMPLETARE_ES_30_90_180_GIORNI]` per retention log.
-- `[DA_COMPLETARE]` per retention backup.
-- `[DA_COMPLETARE_URL_ACCOUNT_DELETION]` per pagina web esterna di cancellazione account (richiesta store).
-- `[DA_COMPLETARE_EMAIL_DIRITTI]` per esercizio diritti GDPR.

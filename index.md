@@ -164,3 +164,8 @@ Prima di attivare nuovi trattamenti non compatibili con questa informativa, la p
 ## 16) Modifiche a questa informativa
 Questa informativa puo essere aggiornata nel tempo.  
 La versione aggiornata sara pubblicata al medesimo URL e, quando necessario, notificata in-app.
+
+## 17) Termini d'uso e disclaimer
+Termini d'uso e disclaimer del servizio sono disponibili a:
+
+**https://gbb9.github.io/holymp-terms/**

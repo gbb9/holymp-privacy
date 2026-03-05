@@ -1,30 +1,46 @@
-# Eliminazione Account - Holymp
+﻿# Eliminazione Account - Holymp
 
+Versione: 1.0 (finale)  
 Ultimo aggiornamento: 5 marzo 2026
 
-Puoi eliminare definitivamente il tuo account Holymp e i dati associati in due modi.
+Puoi richiedere l'eliminazione definitiva del tuo account Holymp e dei dati associati in due modalità.
 
-## Metodo consigliato (in-app)
+## 1) Metodo consigliato (in-app)
+
 1. Apri Holymp.
 2. Vai in `Impostazioni > Generali > Account`.
 3. Seleziona `Cancella account`.
 4. Conferma la richiesta.
 
-## Metodo alternativo (email)
+## 2) Metodo alternativo (email)
+
 Se non riesci ad accedere all'app, invia una richiesta a:
 
 `fitness.privacy.gv@gmail.com`
 
 Oggetto consigliato: `Richiesta cancellazione account Holymp`
 
-Indica l'email usata per la registrazione e una breve richiesta di eliminazione.
+Nel messaggio indica:
 
-## Cosa viene eliminato
+- email usata per la registrazione;
+- eventuale nome profilo;
+- richiesta esplicita di eliminazione account e dati associati.
+
+## 3) Cosa viene eliminato
+
 - Dati account e profilo.
 - Dati allenamento, nutrizione e peso associati all'account.
 - Allegati e contenuti utente associati all'account.
 
-In caso di account bloccati per verifica eta non superata, la richiesta di cancellazione puo essere effettuata con lo stesso canale email sopra indicato.
+In caso di account bloccati per verifica età non superata, la richiesta di cancellazione può essere effettuata con lo stesso canale email sopra indicato.
 
-## Eccezioni
+## 4) Eccezioni
+
 Alcuni dati possono essere mantenuti solo se richiesto da obblighi di legge o per difesa di diritti in sede legale, per il tempo strettamente necessario.
+
+Alcune copie di backup tecniche possono persistere per un periodo limitato fino a sovrascrittura, in conformità alle policy di sicurezza del servizio.
+
+## 5) Documenti collegati
+
+- Informativa Privacy: **https://gbb9.github.io/holymp-privacy/**
+- Termini d'Uso e Disclaimer: **https://gbb9.github.io/holymp-terms/**

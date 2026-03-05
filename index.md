@@ -1,7 +1,7 @@
 # Informativa Privacy - Holymp
 
-Versione: 2.0  
-Ultimo aggiornamento: 4 marzo 2026
+Versione: 2.1  
+Ultimo aggiornamento: 5 marzo 2026
 
 Questa informativa descrive come sono trattati i dati personali quando usi l'app Holymp.
 
@@ -29,7 +29,7 @@ In base alle funzioni utilizzate, Holymp puo trattare le seguenti categorie di d
 - Dati Google Sign-In (se usato): email e nome profilo.
 
 ### 3.2 Dati profilo e benessere
-- Dati profilo inseriti dall'utente (es. nome visualizzato, sesso, altezza, anno di nascita, obiettivi, focus allenamento).
+- Dati profilo inseriti dall'utente (es. nome visualizzato, sesso, altezza, data di nascita completa, obiettivi, focus allenamento).
 - Peso e storico pesate.
 - Parametri e preferenze di integrazione/questionari (es. disponibilita giorni, obiettivi, livello, eventuali limitazioni/infortuni dichiarati, note).
 
@@ -79,6 +79,9 @@ I dati sono trattati per:
 
 4. Trattamento di dati che possono rientrare in categorie particolari (dati relativi alla salute) per funzioni personalizzate fitness/benessere.  
    Base giuridica: art. 9, par. 2, lett. a GDPR (consenso esplicito), ove richiesto, insieme alla base di cui all'art. 6 GDPR applicabile al servizio.
+
+5. Verifica dell'eta minima per l'uso del servizio in Italia, prevenzione dell'uso sotto soglia e applicazione dei blocchi tecnici previsti dalle norme applicabili.  
+   Base giuridica: art. 6, par. 1, lett. c GDPR (adempimento obblighi normativi) e art. 6, par. 1, lett. f GDPR (sicurezza, prevenzione uso non consentito).
 
 ## 6) Natura del conferimento
 - I dati necessari ad account e funzioni principali sono necessari per usare il servizio.
@@ -150,8 +153,13 @@ Per esercitare i diritti scrivi a: **fitness.privacy.gv@gmail.com**.
 Hai anche il diritto di proporre reclamo al Garante per la protezione dei dati personali.
 
 ## 13) Minori
-Holymp non e destinata a minori di **14 anni**.  
-Se rileviamo dati conferiti in violazione di tale limite, procediamo alla rimozione nei limiti tecnici e legali applicabili.
+Per la release attuale in Italia, Holymp applica una soglia minima di utilizzo pari a **14 anni**.
+
+- In fase di registrazione o al primo accesso viene richiesta la **data di nascita completa**.
+- Se la soglia minima non e rispettata, l'accesso viene **bloccato tecnicamente** e l'utente non puo usare le funzionalita dell'app.
+- Il consenso privacy eventualmente espresso non sostituisce il requisito di eta minima.
+
+Se rileviamo un uso sotto soglia o dati conferiti in violazione del limite, adottiamo misure di blocco e procediamo, ove richiesto e nei limiti tecnici/legali, alla cancellazione dei dati.
 
 ## 14) Processi automatizzati e funzioni AI
 L'app puo generare suggerimenti automatici (es. stime nutrizionali, ottimizzazioni allenamento).  

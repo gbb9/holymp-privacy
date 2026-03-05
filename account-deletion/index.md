@@ -1,6 +1,6 @@
 # Eliminazione Account - Holymp
 
-Ultimo aggiornamento: 4 marzo 2026
+Ultimo aggiornamento: 5 marzo 2026
 
 Puoi eliminare definitivamente il tuo account Holymp e i dati associati in due modi.
 
@@ -23,6 +23,8 @@ Indica l'email usata per la registrazione e una breve richiesta di eliminazione.
 - Dati account e profilo.
 - Dati allenamento, nutrizione e peso associati all'account.
 - Allegati e contenuti utente associati all'account.
+
+In caso di account bloccati per verifica eta non superata, la richiesta di cancellazione puo essere effettuata con lo stesso canale email sopra indicato.
 
 ## Eccezioni
 Alcuni dati possono essere mantenuti solo se richiesto da obblighi di legge o per difesa di diritti in sede legale, per il tempo strettamente necessario.

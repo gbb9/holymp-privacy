@@ -14,8 +14,6 @@ Il Titolare del trattamento è:
 - Recapito: **Parma, Italia**
 - Email supporto, legale e privacy: **fitness.privacy.gv@gmail.com**
 
-Attualmente non è stato nominato un DPO dedicato.
-
 ## 2) Ambito di applicazione
 
 Questa informativa si applica all'app mobile Holymp e ai servizi backend collegati (es. autenticazione, sincronizzazione dati, funzioni AI, gestione premium).
@@ -27,7 +25,7 @@ In base alle funzionalità utilizzate, Holymp può trattare le seguenti categori
 ### 3.1 Dati account e autenticazione
 
 - Email.
-- Password (mai in chiaro, solo hash lato server).
+- Credenziali di autenticazione gestite con misure tecniche adeguate a proteggerne la riservatezza e la sicurezza.
 - Token di autenticazione/sessione.
 - Dati tecnici per recupero password (codici OTP, scadenze, tentativi, metadati tecnici).
 - Dati Google Sign-In (se usato): email e nome profilo.

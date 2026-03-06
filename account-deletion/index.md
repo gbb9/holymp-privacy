@@ -1,6 +1,6 @@
 ﻿# Eliminazione Account - Holymp
 
-Versione: 1.0 (finale)  
+Versione: 1.0
 Ultimo aggiornamento: 5 marzo 2026
 
 Puoi richiedere l'eliminazione definitiva del tuo account Holymp e dei dati associati in due modalità.

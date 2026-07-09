@@ -1,7 +1,7 @@
 # Eliminazione Account - Holymp
 
 Versione: 1.0  
-Ultimo aggiornamento: 15 giugno 2026
+Ultimo aggiornamento: 9 luglio 2026
 
 Puoi richiedere l'eliminazione definitiva del tuo account Holymp e dei dati associati in due modalita'.
 
@@ -40,6 +40,8 @@ In caso di account bloccati per verifica eta' non superata, la richiesta di canc
 Alcuni dati possono essere mantenuti solo se richiesto da obblighi di legge o per difesa di diritti in sede legale, per il tempo strettamente necessario.
 
 Alcune copie di backup tecniche possono persistere per un periodo limitato fino a sovrascrittura, in conformita' alle policy di sicurezza del servizio.
+
+Nota: la cancellazione dell’account elimina o anonimizza i dati lato Holymp secondo la Privacy Policy. Non annulla automaticamente abbonamenti attivi, pagamenti, richieste di rimborso o cronologia acquisti gestiti da Google Play o da altri store. Per gestire rinnovi, disdette, contestazioni o rimborsi occorre usare gli strumenti dello store competente.
 
 ## 5) Documenti collegati
 

@@ -1,7 +1,7 @@
 # Account Deletion - Holymp
 
 Version: 1.0  
-Last updated: June 15, 2026
+Last updated: July 9, 2026
 
 You can request permanent deletion of your Holymp account and associated data in two ways.
 
@@ -40,6 +40,8 @@ For accounts blocked because age verification was not passed, the deletion reque
 Some data may be retained only if required by legal obligations or for defense of rights in legal proceedings, for the strictly necessary time.
 
 Some technical backup copies may persist for a limited period until overwritten, in accordance with the service security policies.
+
+Note: account deletion deletes or anonymizes data on Holymp's side according to the Privacy Policy. It does not automatically cancel active subscriptions, payments, refund requests, or purchase history managed by Google Play or other stores. To manage renewals, cancellations, disputes, or refunds, use the tools provided by the relevant store.
 
 ## 5) Related Documents
 

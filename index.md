@@ -16,5 +16,5 @@ Questa pagina permette di consultare l'Informativa Privacy pubblica di Holymp.
 
 ## Current version / Versione corrente
 
-- Privacy Policy / Informativa Privacy: **2.1**
-- Last updated / Ultimo aggiornamento: **15 June 2026 / 15 giugno 2026**
+- Privacy Policy / Informativa Privacy: **2.2**
+- Last updated / Ultimo aggiornamento: **9 July 2026 / 9 luglio 2026**

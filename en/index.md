@@ -1,7 +1,7 @@
 # Privacy Policy - Holymp
 
-Version: 2.1  
-Last updated: June 15, 2026
+Version: 2.2<br />
+Last updated: July 9, 2026
 
 This policy explains how personal data is processed when you use the Holymp app.
 
@@ -66,11 +66,16 @@ Examples:
 - bug reports, screenshots, or images sent by the user;
 - explicit uploads of supported files or media.
 
-### 3.6 Premium and Purchase Data
+### 3.6 Premium, AI Coach Credits, and Purchase Data
 
-- Account premium status.
-- Technical transaction metadata, such as platform, product id, and transaction id where available.
-- Purchase token/receipt hash, without storing the plain token in app systems.
+When you use Premium features or buy AI Coach credits, Holymp may process the data needed to manage access to the service and purchases, including:
+
+- the account's Premium status;
+- AI Coach credit balance;
+- credits purchased, used, and remaining;
+- technical purchase data, such as store/platform, product id, transaction id, purchase token or receipt, technical identifiers, and related technical representations or hashes when used for verification and security.
+
+Holymp does not store full card details or full payment method details. Payment is handled by the store or payment provider shown in the purchase flow.
 
 ### 3.7 Technical, Security, and Log Data
 
@@ -103,13 +108,16 @@ Data is processed for:
 2. Fitness/wellness summaries, activity analysis, personalized suggestions, and improvement of the user experience, including through Health Connect data when the user grants permissions.  
    Legal basis: Article 6(1)(b) GDPR for provision of the requested features and, where necessary, Article 9(2)(a) GDPR for health-related data based on explicit consent.
 
-3. Service security, abuse/fraud prevention, rate limiting, and technical incident management.  
+3. Management of purchases, subscriptions, AI Coach credits, and Premium features, including delivery of the purchased credit or feature, purchase status verification, support for payment or access issues, security, and prevention of fraud, abuse, or unauthorized reuse of receipts or tokens.<br />
+   Legal basis: Article 6(1)(b) GDPR for performance of the service or purchase; Article 6(1)(c) GDPR for accounting, tax, or legal obligations; Article 6(1)(f) GDPR for security and fraud or abuse prevention.
+
+4. Service security, abuse/fraud prevention, rate limiting, and technical incident management.<br />
    Legal basis: Article 6(1)(f) GDPR.
 
-4. Legal, tax, and competent authority requirements.  
+5. Legal, tax, and competent authority requirements.<br />
    Legal basis: Article 6(1)(c) GDPR.
 
-5. Verification of the minimum age required to use the service in Italy, prevention of under-threshold use, and application of technical blocks required by applicable rules.  
+6. Verification of the minimum age required to use the service in Italy, prevention of under-threshold use, and application of technical blocks required by applicable rules.<br />
    Legal basis: Article 6(1)(c) GDPR and Article 6(1)(f) GDPR.
 
 ## 6) Nature of Provision
@@ -144,7 +152,7 @@ Data is stored for the time necessary for the purposes listed above.
 - Account/profile data: until account deletion, unless legal obligations apply.
 - Workout/nutrition/weight/attachment data and Health Connect data imported or used by the app: until deletion by the user or account deletion.
 - Password reset, OTP, or temporary token data: limited technical retention according to security configuration.
-- Purchase/premium data: for the time necessary for administrative management and legal obligations.
+- Purchase, Premium, and AI Coach credit data: stored only for as long as necessary to provide the purchased service, handle support, technical checks, security and fraud or abuse prevention, and comply with accounting, tax, or legal obligations.
 - Technical and security logs: **90 days**.
 - Backups: limited rolling retention: **30 days**.
 

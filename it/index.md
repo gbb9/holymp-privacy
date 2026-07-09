@@ -1,7 +1,7 @@
 # Informativa Privacy - Holymp
 
-Versione: 2.1  
-Ultimo aggiornamento: 15 giugno 2026
+Versione: 2.2<br />
+Ultimo aggiornamento: 9 luglio 2026
 
 La presente informativa descrive come vengono trattati i dati personali quando utilizzi l'app Holymp.
 
@@ -66,11 +66,16 @@ Esempi:
 - bug report, screenshot o immagini inviati dall'utente;
 - caricamenti espliciti di file o media supportati.
 
-### 3.6 Dati premium e acquisti
+### 3.6 Dati Premium, crediti Coach IA e acquisti
 
-- Stato premium dell'account.
-- Metadati tecnici transazione, ad esempio piattaforma, product id e transaction id se disponibile.
-- Hash di token/ricevuta acquisto, senza conservare il token in chiaro nei sistemi app.
+Quando usi funzionalità Premium o acquisti crediti Coach IA, Holymp può trattare i dati necessari per gestire l’accesso al servizio e gli acquisti, tra cui:
+
+- stato Premium dell’account;
+- saldo crediti Coach IA;
+- crediti acquistati, usati e residui;
+- dati tecnici dell’acquisto, come store/piattaforma, product id, transaction id, token o ricevuta di acquisto, identificativi tecnici e relative rappresentazioni tecniche o hash, quando usati per verifica e sicurezza.
+
+Holymp non conserva i dati completi della carta o del metodo di pagamento. Il pagamento è gestito dallo store o dal provider indicato nel flusso di acquisto.
 
 ### 3.7 Dati tecnici, sicurezza e log
 
@@ -103,13 +108,16 @@ I dati sono trattati per:
 2. Riepiloghi fitness/wellness, analisi dell'attivita', suggerimenti personalizzati e miglioramento dell'esperienza utente, anche tramite dati Health Connect quando l'utente concede i permessi.  
    Base giuridica: art. 6, par. 1, lett. b GDPR per l'erogazione delle funzionalita' richieste e, ove necessario, art. 9, par. 2, lett. a GDPR per dati relativi alla salute sulla base del consenso esplicito.
 
-3. Sicurezza del servizio, prevenzione abusi/frodi, rate limiting e gestione incidenti tecnici.  
+3. Gestione di acquisti, abbonamenti, crediti Coach IA e funzionalità Premium, inclusi erogazione del credito o della funzionalità acquistata, verifica dello stato dell’acquisto, assistenza su problemi di pagamento o accesso, sicurezza e prevenzione di frodi, abusi o riutilizzo non autorizzato di ricevute o token.<br />
+   Base giuridica: art. 6, par. 1, lett. b GDPR per esecuzione del servizio o dell’acquisto; art. 6, par. 1, lett. c GDPR per obblighi contabili, fiscali o di legge; art. 6, par. 1, lett. f GDPR per sicurezza e prevenzione di frodi o abusi.
+
+4. Sicurezza del servizio, prevenzione abusi/frodi, rate limiting e gestione incidenti tecnici.<br />
    Base giuridica: art. 6, par. 1, lett. f GDPR.
 
-4. Adempimenti normativi, fiscali e richieste dell'autorita' competente.  
+5. Adempimenti normativi, fiscali e richieste dell'autorita' competente.<br />
    Base giuridica: art. 6, par. 1, lett. c GDPR.
 
-5. Verifica dell'eta' minima per l'uso del servizio in Italia, prevenzione dell'uso sotto soglia e applicazione dei blocchi tecnici previsti dalle norme applicabili.  
+6. Verifica dell'eta' minima per l'uso del servizio in Italia, prevenzione dell'uso sotto soglia e applicazione dei blocchi tecnici previsti dalle norme applicabili.<br />
    Base giuridica: art. 6, par. 1, lett. c GDPR e art. 6, par. 1, lett. f GDPR.
 
 ## 6) Natura del conferimento
@@ -144,7 +152,7 @@ I dati sono conservati per il tempo necessario alle finalita' sopra indicate.
 - Dati account/profilo: fino a cancellazione account, salvo obblighi di legge.
 - Dati allenamento/nutrizione/peso/allegati e dati Health Connect importati o usati dall'app: fino a cancellazione da parte utente o cancellazione account.
 - Dati reset password, OTP o token temporanei: conservazione tecnica limitata secondo configurazione di sicurezza.
-- Dati acquisti/premium: per il tempo necessario alla gestione amministrativa e agli obblighi di legge.
+- Dati acquisti, Premium e crediti Coach IA: conservati nei limiti necessari per erogare il servizio acquistato, gestire assistenza, verifiche tecniche, sicurezza e prevenzione di frodi o abusi, e adempiere a obblighi contabili, fiscali o legali.
 - Log tecnici e sicurezza: **90 giorni**.
 - Backup: retention ciclica limitata: **30 giorni**.
 

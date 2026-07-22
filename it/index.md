@@ -12,7 +12,7 @@ Il Titolare del trattamento e':
 - Nome e cognome: **Gabriele Vaccargiu**
 - Nome commerciale del servizio: **Holymp**
 - Recapito: **Parma, Italia**
-- Email supporto, legale e privacy: **fitness.privacy.gv@gmail.com**
+- Email privacy e protezione dati: **privacy@holymp.app**
 
 ## 2) Ambito di applicazione
 
@@ -194,7 +194,7 @@ Ai sensi del GDPR puoi esercitare:
 - portabilita', nei casi previsti;
 - revoca del consenso, senza pregiudicare la liceita' del trattamento precedente.
 
-Per esercitare i diritti scrivi a: **fitness.privacy.gv@gmail.com**.
+Per esercitare i diritti scrivi a: **privacy@holymp.app**.
 
 Hai anche il diritto di proporre reclamo al Garante per la protezione dei dati personali.
 

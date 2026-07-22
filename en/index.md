@@ -12,7 +12,7 @@ The Data Controller is:
 - Full name: **Gabriele Vaccargiu**
 - Service trade name: **Holymp**
 - Contact location: **Parma, Italy**
-- Support, legal, and privacy email: **fitness.privacy.gv@gmail.com**
+- Privacy and data protection email: **privacy@holymp.app**
 
 ## 2) Scope
 
@@ -194,7 +194,7 @@ Under the GDPR you may exercise:
 - portability, where applicable;
 - withdrawal of consent, without affecting the lawfulness of previous processing.
 
-To exercise your rights, write to: **fitness.privacy.gv@gmail.com**.
+To exercise your rights, write to: **privacy@holymp.app**.
 
 You also have the right to lodge a complaint with the Italian Data Protection Authority.
 

@@ -16,7 +16,7 @@ Puoi richiedere l'eliminazione definitiva del tuo account Holymp e dei dati asso
 
 Se non riesci ad accedere all'app, invia una richiesta a:
 
-`fitness.privacy.gv@gmail.com`
+`privacy@holymp.app`
 
 Oggetto consigliato: `Richiesta cancellazione account Holymp`
 

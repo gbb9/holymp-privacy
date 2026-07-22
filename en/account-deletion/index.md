@@ -16,7 +16,7 @@ You can request permanent deletion of your Holymp account and associated data in
 
 If you cannot access the app, send a request to:
 
-`fitness.privacy.gv@gmail.com`
+`privacy@holymp.app`
 
 Recommended subject: `Holymp account deletion request`
 

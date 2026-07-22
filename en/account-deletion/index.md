@@ -45,5 +45,5 @@ Note: account deletion deletes or anonymizes data on Holymp's side according to 
 
 ## 5) Related Documents
 
-- Privacy Policy: **https://gbb9.github.io/holymp-privacy/en/**
-- Terms of Use and Disclaimer: **https://gbb9.github.io/holymp-terms/en/**
+- Privacy Policy: **https://privacy.holymp.app/en/**
+- Terms of Use and Disclaimer: **https://terms.holymp.app/en/**

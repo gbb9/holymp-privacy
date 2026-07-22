@@ -166,9 +166,9 @@ Account deletion is available in-app at:
 
 The external channel required by app stores is also available:
 
-- External account deletion page URL: **https://gbb9.github.io/holymp-privacy/account-deletion/**
-- Account deletion page in Italian: **https://gbb9.github.io/holymp-privacy/it/account-deletion/**
-- Account deletion page in English: **https://gbb9.github.io/holymp-privacy/en/account-deletion/**
+- External account deletion page URL: **https://privacy.holymp.app/account-deletion/**
+- Account deletion page in Italian: **https://privacy.holymp.app/it/account-deletion/**
+- Account deletion page in English: **https://privacy.holymp.app/en/account-deletion/**
 
 ## 11) Security
 
@@ -227,4 +227,4 @@ The updated version will be published at the same URL or on the dedicated langua
 
 Terms of use and disclaimer for the service are available at:
 
-**https://gbb9.github.io/holymp-terms/**
+**https://terms.holymp.app/**

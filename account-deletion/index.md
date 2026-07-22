@@ -12,4 +12,4 @@ Questa pagina permette di consultare le istruzioni per eliminare l'account Holym
 ## Related documents / Documenti collegati
 
 - [Privacy Policy / Informativa Privacy](../)
-- [Terms and Disclaimer / Termini e Disclaimer](https://gbb9.github.io/holymp-terms/)
+- [Terms and Disclaimer / Termini e Disclaimer](https://terms.holymp.app/)

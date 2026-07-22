@@ -45,5 +45,5 @@ Nota: la cancellazione dell’account elimina o anonimizza i dati lato Holymp se
 
 ## 5) Documenti collegati
 
-- Informativa Privacy: **https://gbb9.github.io/holymp-privacy/it/**
-- Termini d'Uso e Disclaimer: **https://gbb9.github.io/holymp-terms/it/**
+- Informativa Privacy: **https://privacy.holymp.app/it/**
+- Termini d'Uso e Disclaimer: **https://terms.holymp.app/it/**

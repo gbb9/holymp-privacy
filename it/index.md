@@ -166,9 +166,9 @@ La cancellazione account e' disponibile in-app nel percorso:
 
 E' inoltre disponibile il canale esterno richiesto dagli store:
 
-- URL pagina esterna eliminazione account: **https://gbb9.github.io/holymp-privacy/account-deletion/**
-- Pagina eliminazione account in italiano: **https://gbb9.github.io/holymp-privacy/it/account-deletion/**
-- Pagina eliminazione account in inglese: **https://gbb9.github.io/holymp-privacy/en/account-deletion/**
+- URL pagina esterna eliminazione account: **https://privacy.holymp.app/account-deletion/**
+- Pagina eliminazione account in italiano: **https://privacy.holymp.app/it/account-deletion/**
+- Pagina eliminazione account in inglese: **https://privacy.holymp.app/en/account-deletion/**
 
 ## 11) Sicurezza
 
@@ -227,4 +227,4 @@ La versione aggiornata sara' pubblicata al medesimo URL o nelle pagine lingua de
 
 Termini d'uso e disclaimer del servizio sono disponibili a:
 
-**https://gbb9.github.io/holymp-terms/**
+**https://terms.holymp.app/**
